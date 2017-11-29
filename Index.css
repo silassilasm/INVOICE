@@ -1,0 +1,85 @@
+.container{background-color: #fff;}
+.active{color: #7f7f7f;
+		font-size: 24px;
+		padding-bottom: -10px;
+
+}
+.N{padding-top: 80px;}
+.Non{padding-top: 40px;}
+.global{color: #a09f9f;
+		font-size: 13px;
+}
+.garden{color: #c4c4c3;
+		font-size:11px;
+}
+.invoice{
+	font-size: 15px;
+
+}
+.address{
+	font-size: 11px;
+}
+.name{ font-size: 19px;
+
+ }
+ .website{
+ 	font-size: 11px;
+ }
+ .title{
+ 	font-size: 54px;
+ 	color: #ababab;
+ }
+ .label{font-size: 14px;}
+
+.email-color{color: #ababab;
+			 font-size: 11px;
+			 padding-top: 90px;
+}
+.row.red{color: #ec2327;
+font-size: 16px;}
+.design{color: #616262;
+		font-size: 12px;
+		padding-top: 10px;
+}
+.back{background-color: #ec2426;}
+.font{font-size: 10px;}
+.gray{background-color: #e8e8e9; }
+.gray1{background-color: #f7f6f6;}
+.gray2{background-color: #e8e8e9;
+		padding-bottom:18px;
+}
+.gray3{background-color: #f7f6f6;}
+h4{padding-top: 19px;
+	color: #616262;
+}
+.payment{
+	color: #fff;
+	background-color: #acacac;
+	border-radius: 5px;
+	font-size: 15px;
+	padding-left: 30px;
+	padding-top:10px ;
+	padding-bottom: 10px;
+	margin-bottom: 40px;
+	margin-left: 15px;
+	margin-right: 59px;
+}
+.pw{margin-bottom: 40px;
+	color: #8f8f8f;
+}
+.west{margin-bottom: 40px; 
+		margin-top: -10px;
+		color: #8f8f8f;
+}
+.card{color: #8f8f8f;}
+.act{color: #8f8f8f;}
+.term{margin-top: 200px;
+		color: #8f8f8f;	
+}
+.thank{font-size: 23px;
+		margin-top: 28px;
+		color: #8f8f8f;
+}
+.discount{ color: #ed1e25; }
+.terry{text-align: center;}
+.account{text-align: center;}
